@@ -31,9 +31,8 @@
 
 ### Тестирование
 
- ![[Pasted image 20260223174248.png]]
 
-
+![alt text](pictures/1.png)
 
 # Задание 2. Рекурсия
 
@@ -74,8 +73,9 @@
 
 ### Тестирование
 
-![[Pasted image 20260224164919.png]]
-![[Pasted image 20260224164957.png]]
+![alt text](pictures/2.png)
+![alt text](pictures/3.png)
+
 # Задание 3.  
 
 ## Задача 2
@@ -111,11 +111,11 @@
 ### Тестирование
 
 Скриншоты результата работы программы
-![[Pasted image 20260224183743.png]]
-![[Pasted image 20260224183820.png]]
-![[Pasted image 20260224183856.png]]
-![[Pasted image 20260224183915.png]]
-![[Pasted image 20260224183942.png]]
-![[Pasted image 20260224184023.png]]
-![[Pasted image 20260224184053.png]]
-![[Pasted image 20260224184116.png]]
+![alt text](pictures/4.png)
+![alt text](pictures/5.png)
+![alt text](pictures/6.png)
+![alt text](pictures/7.png)
+![alt text](pictures/8.png)
+![alt text](pictures/9.png)
+![alt text](pictures/10.png)
+![alt text](pictures/11.png)
